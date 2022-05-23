@@ -1,4 +1,12 @@
-# PrivacySQL
+<pre>
+    ____       _                                    _____ ____    __ 
+   / __ \_____(_)   ______ ________  __            / ___// __ \  / / 
+  / /_/ / ___/ / | / / __ `/ ___/ / / /  ______    \__ \/ / / / / /  
+ / ____/ /  / /| |/ / /_/ / /__/ /_/ /  /_____/   ___/ / /_/ / / /___
+/_/   /_/  /_/ |___/\__,_/\___/\__, /            /____/\___\_\/_____/
+                              /____/                                 
+</pre>
+
 Accessible Privacy Techniques for SQL and explanations! 
 
 Técnicas de privacidade acessíveis para SQL e explicações!
